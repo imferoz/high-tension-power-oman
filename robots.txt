@@ -1,5 +1,6 @@
 User-agent: *
-Disallow: /cdn-cgi/l/email-protection
 Allow: /
+Disallow: /cdn-cgi/
+Disallow: /private/
 
 Sitemap: https://high-tension-power-oman.alwejhagroup.com/sitemap.xml
